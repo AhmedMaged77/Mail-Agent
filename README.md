@@ -8,3 +8,5 @@
 | Typography | [View Typography](https://www.figma.com/design/7QDK4YveuDviGdQGgwtLH5/Graduation-Project?node-id=10-75&t=he5AWe9CgE81Igal-1) |
 | Icons | [View Icons](https://www.figma.com/design/7QDK4YveuDviGdQGgwtLH5/Graduation-Project?node-id=3-916&t=he5AWe9CgE81Igal-1) |
 
+## Initial Code
+[View Code](https://github.com/emaDRabie/phishing-detector-app)
